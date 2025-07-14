@@ -1,7 +1,7 @@
 # Lenkų literatų asociacija
 
 ## Apie mus
-Lenkų literatų asociacija – tai kūrėjų bendruomenė, vienijanti rašytojus, poetus, vertėjus ir literatūros entuziastus, puoselėjančius lenkų literatūrą Lietuvoje ir už jos ribų.
+Mūsų tikslas skatinti lenkų bei lietuvių bendradarbiavimą literatūros srityje. Asociacija vienija literatūros srityje veikiančius asmenis, atstovauja jų interesams, skatina tarptautinį literatūrinį bendradarbiavimą ir formuoja patrauklų lenkų literatūros įvaizdį Lietuvoje bei už jos ribų.
 
 ## Mūsų tikslai
 - Skatinti lenkų literatūros kūrybą ir sklaidą
