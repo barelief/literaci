@@ -24,6 +24,7 @@ Naugarduko 76, LT-03202 Vilnius
 IBAN: LT527300010114850224
 ```
 
+[Įstatai](https://drive.google.com/file/d/1fa-Sqdbo2RD6zgbMo6oj9Bnkct9ImEUw/view?usp=sharing)
 
 [Šio puslapio archyvas (achiwum strony)](https://web.archive.org/web/20250120132531/https://literaci.lt/
 )
